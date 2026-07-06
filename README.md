@@ -6,9 +6,7 @@ I'm interested in software performance and observability.
 
 I particularly like writing Ruby code, but at work my current stack is Python, TypeScript, and Rust.
 
-Email:
-- 🏠 matt@mjquinn.ca
-- 🏢 matt.quinn@sentry.io
+📫 Email: matt@mjquinn.ca
 
 ---
 
